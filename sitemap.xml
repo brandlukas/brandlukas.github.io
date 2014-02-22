@@ -1,15 +1,27 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
+        <loc>http://brandlukas.github.io/blog/2014/02/22/so-it-begins-dot-dot-dot/</loc>
+        <lastmod>2014-02-22T22:26:00+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://brandlukas.github.io/archives/</loc>
+        <lastmod>2014-02-22T22:26:00+01:00</lastmod>
+    </url>
+    <url>
         <loc>http://brandlukas.github.io/blog/archives/</loc>
-        <lastmod>2014-02-22T21:38:45+01:00</lastmod>
+        <lastmod>2014-02-22T22:26:00+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://brandlukas.github.io/blog/</loc>
+        <lastmod>2014-02-22T22:26:00+01:00</lastmod>
     </url>
     <url>
         <loc>http://brandlukas.github.io/</loc>
-        <lastmod>2014-02-22T21:38:45+01:00</lastmod>
+        <lastmod>2014-02-22T22:26:00+01:00</lastmod>
     </url>
     <url>
         <loc>http://brandlukas.github.io/robots.txt</loc>
-        <lastmod>2014-02-22T21:38:45+01:00</lastmod>
+        <lastmod>2014-02-22T22:26:00+01:00</lastmod>
     </url>
 </urlset>

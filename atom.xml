@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://brandlukas.github.io/atom.xml" rel="self"/>
   <link href="http://brandlukas.github.io/"/>
-  <updated>2014-02-22T21:43:30+01:00</updated>
+  <updated>2014-02-22T22:27:45+01:00</updated>
   <id>http://brandlukas.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,5 +12,14 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[So it begins...]]></title>
+    <link href="http://brandlukas.github.io/blog/2014/02/22/so-it-begins-dot-dot-dot/"/>
+    <updated>2014-02-22T21:57:39+01:00</updated>
+    <id>http://brandlukas.github.io/blog/2014/02/22/so-it-begins-dot-dot-dot</id>
+    <content type="html"><![CDATA[<p>This is the first post on my new blog, basically just to test octopress and if it&rsquo;s worth using ruby again&hellip;</p>
+]]></content>
+  </entry>
   
 </feed>
